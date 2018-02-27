@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="main_background">#e5e43f3f</color>
+    <color name="button_background">#00a65a</color>
+    <color name="text_color_orange">#f89912</color>
+
+    <color name="colorControlNormal">#FF78909C</color>
+    <color name="et_divider_disable">#FFC1C1C1</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white80">#CCffffff</color>
+    <color name="grey">#cccccc</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="black80">#CC000000</color>
+    <color name="black50">#80000000</color>
+    <color name="textGrey">#808080</color>
+    <color name="textGreyLight">#a5a5a5</color>
+    <color name="green">#1de9b6</color>
+
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="blue">#5cb7db</color>
+
+    <color name="text_color_dark">#686868</color>
+    <color name="text_color_dark_light">#A6A6A6</color>
+
+    <color name="background_divider">#a8a8a8 </color>
+</resources>
